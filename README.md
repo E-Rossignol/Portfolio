@@ -14,7 +14,7 @@ Cette application web permet à l'utilisateur de découvrir, naviguer et explore
   
 - ![Screenshot](./images/game_of_life_screenshot.png)
 
-### 2. Aide à l'élevage de dragodinde ()
+### 2. Aide à l'élevage de dragodinde (Python, PyQt5)
 
 Cette application Desktop (fichier ".exe" disponible) permet à l'utilisateur de générer un script compatible avec le logiciel AutoHotKey lui permettant de simplifier et accélérer l'élevage de Dragodindes dans le MMORPG "Dofus" d'Ankama. L'application permet, via des raccourcis définis et modifiables dans l'onglet "Modifier les paramètres", d'activer et désactiver un script qui alternera les "emotes" en jeu afin de simplifier et d'accélérer grandement l'élevage de Dragodindes. 
 - Fonctionnalités: choix des raccourcis des emotes, choix des raccourcis d'activation/désactivation du script généré, choix de l'emplacement du script généré ainsi que son nom, génération du script, modification des paramètres et réécriture du script
