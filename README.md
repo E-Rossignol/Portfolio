@@ -103,13 +103,20 @@ This project was created to explore practical application development with Flutt
 
 ### Repository
 
-[Repository Link]
+https://github.com/E-Rossignol/tekken8_cheat_sheet.git
 
 ### Deliverables
+
+The deliverables are available into the GitHub project in the "deliverables" folder and contains:
 
 * Screenshots
 * Demo video
 * Runnable build
+* Installer
+
+### Demonstration
+
+All the demonstration informations are available in the project's main README.md file.
 
 ---
 
