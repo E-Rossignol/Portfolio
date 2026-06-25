@@ -148,7 +148,7 @@ All the demonstration informations are available in the project's main README.md
 
 ---
 
-## 4. Dragoturkey Macro Maker
+## 4. Elden Ring Items Companion
 
 ### Overview
 
@@ -176,7 +176,7 @@ All the demonstration informations are available in the project's main README.md
 
 ---
 
-## 5. Conway Game
+## 5. Dofalarm
 
 ### Overview
 
@@ -204,7 +204,63 @@ All the demonstration informations are available in the project's main README.md
 
 ---
 
-## 6. Dofalarm
+## 6. Temporary Vault
+
+### Overview
+
+*To be completed.*
+
+### Technologies
+
+* TBD
+
+### Key Features
+
+* TBD
+
+### Skills Demonstrated
+
+* TBD
+
+### Repository
+
+[Repository Link]
+
+### Deliverables
+
+* TBD
+
+---
+
+## 7. Dragoturkey Macro Maker
+
+### Overview
+
+*To be completed.*
+
+### Technologies
+
+* TBD
+
+### Key Features
+
+* TBD
+
+### Skills Demonstrated
+
+* TBD
+
+### Repository
+
+[Repository Link]
+
+### Deliverables
+
+* TBD
+
+---
+
+## 8. Conway Game of Life
 
 ### Overview
 
